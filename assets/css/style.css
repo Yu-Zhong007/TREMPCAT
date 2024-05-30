@@ -68,7 +68,7 @@ body {
   color: #000;
   line-height: 32px;
   font-weight: 400;
-  background: #a79470;
+  background: #141414;
   font-family: "custom", sans-serif;
   background-size: cover;
   background-repeat: no-repeat;
@@ -496,7 +496,7 @@ img {
   position: fixed;
   opacity: 0;
   visibility: hidden;
-  background: #f8c3c7;
+  background: #fff;
   left: 0px;
   top: 0px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
@@ -1312,7 +1312,7 @@ div#mCSB_1_container {
 
 .banner-section {
   position: relative;
-  background: #a79470;
+  background: #141414;
   padding: 210px 0px 100px 0px;
 }
 
@@ -1505,7 +1505,7 @@ div#mCSB_1_container {
 
 .feature-section {
   position: relative;
-  background: #a79470;
+  background: #141414;
   padding: 50px 0px 100px 0px;
 }
 
@@ -1640,7 +1640,7 @@ div#mCSB_1_container {
 
 .about-section {
   position: relative;
-  background: #a79470;
+  background: #141414;
   padding: 50px 0px 150px 0px;
 }
 

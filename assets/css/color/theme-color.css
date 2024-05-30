@@ -1,7 +1,7 @@
 /* theme-color */
 
 .bg-color-2 {
-  background: #a79470;
+  background: #141414;
 }
 
 .scroll-top {
@@ -55,7 +55,8 @@
 }
 
 .theme-btn.style-one {
-  background: #8a5e39;
+  background: #4a4a4a;
+  /* color: #000 !important; */
 }
 
 .banner-section .content-box .btn-box .video-btn i {

@@ -2,7 +2,7 @@
 
 .bg-color-2 {
   background: fixed;
-  background-image: url(/bg.gif);
+  /* background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.5)), url('./images/bg.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
 

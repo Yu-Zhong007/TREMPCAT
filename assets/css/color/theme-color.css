@@ -1,7 +1,11 @@
 /* theme-color */
 
 .bg-color-2 {
-  background: #141414;
+  background: fixed;
+  background-image: url(/bg.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .scroll-top {
